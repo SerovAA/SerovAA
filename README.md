@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<i>My name is Artem.I am a Junior Python Developer.</i></p>
+
+<p align="center">
+  <b>My CV:</b>
+  <br>
+  <b><a href="https://cv.hexlet.io/ru/resumes/5112">hexlet</a></b>
+</p>
+ 
+ 
+
+### 🎓 Education
+
+- 📖 **Python Development:**
+
+
+- 📆 February 2024 - Present\
+📍 **[Hexlet Courses](https://ru.hexlet.io/)** - group learning, paid training course "Python developer".
+
