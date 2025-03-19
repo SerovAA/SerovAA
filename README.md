@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 📖 **Python Development:**
 
 
-- 📆 February 2024 - Present\
+- 📆 2024 - 2025
 📍 **[Hexlet Courses](https://ru.hexlet.io/)** - group learning, paid training course "Python developer".
 
