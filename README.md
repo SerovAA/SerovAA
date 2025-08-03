@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <i>My name is Artem.I am a Junior Python Developer.</i></p>
-
-<p align="center">
+<p>
   <b>My CV:</b>
   <br>
-  <b><a href="https://cv.hexlet.io/ru/resumes/5112">hexlet</a></b>
+  <b><a href="https://spb.hh.ru/resume/83dd682bff0e95e7990039ed1f4e6679503238">hexlet</a></b>
 </p>
- 
- 
+
+You can contact me as follows: 
+ - telegram @Artem_SA_SPB
+ - email serov4rtem@gmail.com
+
+
 
 ### 🎓 Education
 
