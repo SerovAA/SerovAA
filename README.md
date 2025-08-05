@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>
   <b>My CV:</b>
   <br>
-  <b><a href="https://spb.hh.ru/resume/83dd682bff0e95e7990039ed1f4e6679503238">hexlet</a></b>
+  <b><a href="https://spb.hh.ru/resume/83dd682bff0e95e7990039ed1f4e6679503238">hh.ru</a></b>
 </p>
 
 You can contact me as follows: 
